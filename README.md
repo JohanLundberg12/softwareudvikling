@@ -1,5 +1,5 @@
 # softwareudvikling
 Repository-udvikling
-Gruppemedlemmer: Oliver, Johan, Jonathan, Tobias
+Gruppemedlemmer: Oliver Laursen, Johan Lundberg, Jonathan Greve, Tobias Stier
 Sprog: C#
-Jonathan er en plante
+
